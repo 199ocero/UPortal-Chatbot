@@ -1,7 +1,7 @@
 # UPortal Website
 
-Propose Project: uPortal\n
-Problem: Students that have no internet connection (not enough money to buy load)
+# Propose Project: uPortal
+# Problem: Students that have no internet connection (not enough money to buy load)
 
 # What is UPortal
 
